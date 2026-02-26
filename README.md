@@ -20,6 +20,12 @@
 
 <details><summary>Tomb Raider Modding Tools</summary>
 
+[TRLAU Menu Hook](https://github.com/TheIndra55/TRLAU-menu-hook)
+> Reverse engineering, menu and patches for Tomb Raider Anniversary, Legend and Underworld.
+
+[Yura](https://github.com/TheIndra55/Yura)
+> Bigfile browser for cdcEngine games
+
 </details>
 
 <details><summary>Project Zomboid Modding Tools</summary>
