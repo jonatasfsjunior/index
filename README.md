@@ -1,6 +1,3 @@
-# index
-My index of the most useful repositories, by category.
-
 <details><summary>Blender Plugins</summary>
 
 [Ucupaint](https://github.com/ucupumar/ucupaint)
