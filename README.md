@@ -1,9 +1,9 @@
 <details><summary>General Blender Plugins</summary>
 
 [Ucupaint](https://github.com/ucupumar/ucupaint)
-> A tool for Texture Layer Management | Painting Textures
+> A tool for Texture Layer Management | Painting Textures<br>
 [Brushtroke Tools](https://extensions.blender.org/add-ons/brushstroke-tools/)
-> Brushstroke painting tools by the Blender Studio.
+> Brushstroke painting tools by the Blender Studio.<br>
 [CloudRig](https://extensions.blender.org/add-ons/cloudrig/)
 >
 
