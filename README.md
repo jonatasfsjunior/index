@@ -1,33 +1,36 @@
-<details><summary>General Blender Plugins</summary>
+<detalhes><resumo>Plugins gerais do Blender</resumo>
 
 [Ucupaint](https://github.com/ucupumar/ucupaint)
-> A tool for Texture Layer Management | Painting Textures
+> Uma fermentação para gerenciamento de câmeras de textura | Pintura de texturas
 
-[Brushtroke Tools](https://extensions.blender.org/add-ons/brushstroke-tools/)
-> Brushstroke painting tools by the Blender Studio.
+[Ferramentas Brushtroke](https://extensions.blender.org/add-ons/brushstroke-tools/)
+> Ferramentas de pintura com pinceladas do Blender Studio.
 
-[CloudRig](https://extensions.blender.org/add-ons/cloudrig/)
+[Equipamento de Nuvem](https://extensions.blender.org/add-ons/cloudrig/)
 >
 
-</details>
+</detalhes>
 
-<details><summary>GTA 3D Era Modding Tools</summary>
+<detalhes><resumo>Ferramentas de modificação da era GTA 3D</resumo>
 
-[DragonFF](https://github.com/Parik27/DragonFF)
-> Add-on for manipulating 3D models in Blender for GTA games from the RenderWare era.
+[DragãoFF](https://github.com/Parik27/DragonFF)
+> Complemento para manipulação de modelos 3D no Blender para jogos GTA da era RenderWare.
 
-</details>
+</detalhes>
 
-<details><summary>Tomb Raider Modding Tools</summary>
+<detalhes><resumo>Ferramentas de modificação do Tomb Raider</resumo>
 
-[TRLAU Menu Hook](https://github.com/TheIndra55/TRLAU-menu-hook)
-> Reverse engineering, menu and patches for Tomb Raider Anniversary, Legend and Underworld.
+[Gancho de menu TRLAU](https://github.com/TheIndra55/TRLAU-menu-hook)
+> Engenharia reversa, menu e patches para Tomb Raider Anniversary, Legend e Underworld.
 
 [Yura](https://github.com/TheIndra55/Yura)
-> Bigfile browser for cdcEngine games
+> Navegador Bigfile para jogos cdcEngine
 
-</details>
+</detalhes>
 
-<details><summary>Project Zomboid Modding Tools</summary>
+<detalhes><resumo>Ferramentas de modificação do projeto Zomboid</resumo>
 
-</details>
+[CommunityRig](https://github.com/Paddlefruit/ProjectZomboid_CommunityRig)
+> Modelo base para jogador
+
+</detalhes>
